@@ -1,0 +1,24 @@
+
+
+
+ img{
+	width: 100%;
+}
+
+.title{
+	padding: 10px;
+	color: grey;
+
+}
+
+.pera{
+	padding: 10px;
+	text-align: justify;
+	font-size: 14px;
+}
+
+.footer{
+	text-align: center;
+	background: #ee4c50;
+	color: white;
+}
